@@ -1,0 +1,16 @@
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; // define what 1rem should be
+}
+
+body {
+  box-sizing: border-box;
+}
